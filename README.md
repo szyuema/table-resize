@@ -7,6 +7,6 @@ how to resize a or more table
 
 **这个实现的demo，其实jqGird可以很好实现表格效果但是太重，bootstrap也有继承，但是不是所有的项目都会用bootstrap。**
 
-**[项目地址](https://szyuema.github.io/table-resize/)**
->https://szyuema.github.io/table-resize/
+**[项目地址](https://szyuema.github.io/table-resize/resize.html)**
+>https://szyuema.github.io/table-resize/resize.html
 欢迎收藏，转载，完善
